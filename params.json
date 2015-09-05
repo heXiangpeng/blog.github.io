@@ -1,1 +1,1 @@
-{"name":"Blog.GitHub.io","tagline":"开始建立自己的技术博客","body":"```javascript\r\nfunction fancyAlert(arg) {\r\n  if(arg) {\r\n    $.facebox({div:'#foo'})\r\n  }\r\n}\r\n```\r\n\r\n从自己的技术","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Blog.GitHub.io","tagline":"开始建立自己的技术博客","body":"```javascript\r\nfunction fancyAlert(arg) {\r\n  if(arg) {\r\n    $.facebox({div:'#foo'})\r\n  }\r\n}\r\n```\r\n\r\n开始建立自己的技术博客","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
